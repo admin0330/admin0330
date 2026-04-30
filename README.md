@@ -1,112 +1,121 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Ym1r&fontSize=42&fontColor=ffffff&animation=fadeIn" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+real+systems;Linux+from+zero+to+practical;Focused+on+servers+and+deployment;&center=true&width=420&height=45&color=00C2FF&vCenter=true&size=18">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=260&color=gradient&text=Ym1r&fontSize=64&fontAlign=50&fontAlignY=45&desc=Building%20quiet%20systems%20with%20real%20purpose&descAlign=50&descAlignY=62&animation=fadeIn" />
 
----
+<br/>
 
-## 🧭 About
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=8BD5FF&center=true&vCenter=true&width=520&lines=Cloud+%26+Network+Technology;Linux+%E2%86%92+Servers+%E2%86%92+Deployment;Learning+by+building+real+systems" />
 
-* 🎓 Cloud & Network Technology student
-* 🌏 Target: Singapore
-* ⚙️ Focus: Linux · Server · Deployment
-* 🧠 Learning by building real systems
+</div>
 
----
+<br/>
 
-## 🎬 Project Showcase
+## About
 
-### 🔹 YK Intelligence (AI Chat System)
+I am a Cloud & Network Technology student building practical systems through real deployment, server maintenance, and backend experiments.
 
-<p align="center">
-  <img src="https://your-gif-link.gif" width="700"/>
-</p>
-
-> Self-hosted AI chat platform running on my own server
-
-**Key Features**
-
-* Multi-user system
-* File upload & prompt parsing
-* Admin panel
-* tmux session persistence
-
-**Tech**
+My current focus is simple:
 
 ```txt
-Ubuntu / Node.js / Express / SQLite
+Linux · Servers · Deployment · Backend · Real-world systems
 ```
 
----
+<br/>
 
-### 🔹 My Server Setup
+## Selected Work
 
-<p align="center">
-  <img src="https://your-server-gif.gif" width="700"/>
-</p>
+<table>
+<tr>
+<td width="50%">
 
-> From a clean server → running backend system
+### YK Intelligence
 
-**What I built**
+Self-hosted AI chat system deployed on my own server.
 
-* User & permission system
-* systemd service deployment
-* Node.js environment
-* Process control (tmux)
-
----
-
-## 🧱 System Architecture
-
-<p align="center">
-  <img src="https://your-architecture-image.png" width="600"/>
-</p>
-
-```
-User → Web → Node.js → DeepSeek API
-                 ↓
-              SQLite
-                 ↓
-              Server (Ubuntu)
+```txt
+Ubuntu · Node.js · Express · SQLite · tmux
 ```
 
----
+* Multi-user login
+* Admin control panel
+* File upload and prompt parsing
+* Persistent Claude Code session
 
-## 🛠 Tech Stack
+</td>
+<td width="50%">
 
-<p align="center">
+### Server Lab
 
-<img src="https://skillicons.dev/icons?i=linux,nodejs,git,github,sqlite" />
+A personal Linux server setup project.
 
-</p>
+```txt
+Linux · systemd · SSH · Git · Deployment
+```
 
----
+* User and permission setup
+* Service management
+* Process persistence
+* Deployment notes
 
-## 📈 Activity
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=admin0330&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=admin0330&theme=tokyonight&hide_border=true" />
-</p>
+## System Snapshot
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=admin0330&theme=tokyo-night&hide_border=true&area=true" />
-</p>
+```txt
+Browser
+  ↓
+Node.js / Express
+  ↓
+SQLite + Sessions
+  ↓
+Ubuntu Server
+  ↓
+External AI API
+```
 
----
+<br/>
 
-## 📌 Philosophy
+## Stack
 
-> I don’t just learn — I build, break, and understand.
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,nodejs,express,sqlite,git,github,bash,vscode" />
 
-## 📫 Contact
+</div>
 
-* GitHub: https://github.com/admin0330
+<br/>
+
+## Activity
+
+<div align="center">
+
+<img width="420" src="https://github-readme-stats.vercel.app/api?username=admin0330&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8BD5FF&icon_color=8BD5FF" />
+
+<br/><br/>
+
+<img width="720" src="https://github-readme-activity-graph.vercel.app/graph?username=admin0330&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Flow" />
+
+</div>
+
+<br/>
+
+## Philosophy
+
+<div align="center">
+
+> I don’t just learn.
+> I build, break, repair, and understand.
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,100:2c5364" />
+
+</div>
