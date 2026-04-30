@@ -1,61 +1,87 @@
-<h1 align="center">Ym1r</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Ym1r&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+</p>
 
 <p align="center">
-  Building real systems · Learning by doing · Focused on cloud & servers
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+real+systems;Linux+from+zero+to+practical;Focused+on+servers+and+deployment;&center=true&width=420&height=45&color=00C2FF&vCenter=true&size=18">
 </p>
 
 ---
 
-## 🧭 Direction
+## 🧭 About
 
-* 🎓 Student · Cloud & Network Technology
-* 🌏 Target: Work in Singapore
-* ⚙️ Focus: Linux · Server · Deployment · Real-world systems
-
----
-
-## 🧠 Currently
-
-* Learning Linux from zero → practical usage
-* Building and maintaining a real server environment
-* Exploring how backend systems actually run
+* 🎓 Cloud & Network Technology student
+* 🌏 Target: Singapore
+* ⚙️ Focus: Linux · Server · Deployment
+* 🧠 Learning by building real systems
 
 ---
 
-## 🚀 Projects
+## 🎬 Project Showcase
 
-### 🔹 YK Intelligence (ongoing)
+### 🔹 YK Intelligence (AI Chat System)
 
-> A self-hosted AI chat system running on my own server
+<p align="center">
+  <img src="https://your-gif-link.gif" width="700"/>
+</p>
+
+> Self-hosted AI chat platform running on my own server
+
+**Key Features**
 
 * Multi-user system
-* File upload & parsing into prompts
-* Admin control panel
-* Session persistence with tmux
-* Ubuntu + Node.js + SQLite
+* File upload & prompt parsing
+* Admin panel
+* tmux session persistence
+
+**Tech**
+
+```txt
+Ubuntu / Node.js / Express / SQLite
+```
 
 ---
 
 ### 🔹 My Server Setup
 
-> From a clean Ubuntu server to a working backend system
+<p align="center">
+  <img src="https://your-server-gif.gif" width="700"/>
+</p>
 
-* User & permission management
+> From a clean server → running backend system
+
+**What I built**
+
+* User & permission system
 * systemd service deployment
-* Node.js runtime setup
-* Reverse proxy (planned)
-* Basic security practices
+* Node.js environment
+* Process control (tmux)
 
 ---
 
-## 🛠 Stack
+## 🧱 System Architecture
 
-```txt
-Linux (Ubuntu)
-Node.js / Express
-SQLite
-Git / GitHub
+<p align="center">
+  <img src="https://your-architecture-image.png" width="600"/>
+</p>
+
 ```
+User → Web → Node.js → DeepSeek API
+                 ↓
+              SQLite
+                 ↓
+              Server (Ubuntu)
+```
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,nodejs,git,github,sqlite" />
+
+</p>
 
 ---
 
@@ -63,6 +89,14 @@ Git / GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=admin0330&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=admin0330&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=admin0330&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
