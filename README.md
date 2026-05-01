@@ -1,13 +1,13 @@
 <div align="center">
 
 ```txt
-┌──────────────────────────────────────┐
-│              YM1R.DEV                 │
-│     cloud · linux · server · build    │
-└──────────────────────────────────────┘
+┌────────────────────────────────────────────┐
+│                  YM1R.DEV                   │
+│        cloud · linux · server · build       │
+└────────────────────────────────────────────┘
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=11&duration=2600&pause=1000&color=8BD5FF&center=true&vCenter=true&width=520&height=28&lines=BUILDING+REAL+SYSTEMS;LINUX+%2F+SERVER+%2F+DEPLOYMENT;LEARNING+BY+DOING" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=15&duration=2600&pause=1000&color=8BD5FF&center=true&vCenter=true&width=680&height=40&lines=BUILDING+REAL+SYSTEMS;LINUX+%2F+SERVER+%2F+DEPLOYMENT;LEARNING+BY+DOING" />
 
 </div>
 
