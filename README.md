@@ -1,61 +1,64 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=260&color=gradient&text=Ym1r&fontSize=64&fontAlign=50&fontAlignY=45&desc=Building%20quiet%20systems%20with%20real%20purpose&descAlign=50&descAlignY=62&animation=fadeIn" />
+```txt
+┌──────────────────────────────────────┐
+│              YM1R.DEV                 │
+│     cloud · linux · server · build    │
+└──────────────────────────────────────┘
+```
 
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=8BD5FF&center=true&vCenter=true&width=520&lines=Cloud+%26+Network+Technology;Linux+%E2%86%92+Servers+%E2%86%92+Deployment;Learning+by+building+real+systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=11&duration=2600&pause=1000&color=8BD5FF&center=true&vCenter=true&width=520&height=28&lines=BUILDING+REAL+SYSTEMS;LINUX+%2F+SERVER+%2F+DEPLOYMENT;LEARNING+BY+DOING" />
 
 </div>
 
 <br/>
 
-## About
-
-I am a Cloud & Network Technology student building practical systems through real deployment, server maintenance, and backend experiments.
-
-My current focus is simple:
+## `about.me`
 
 ```txt
-Linux · Servers · Deployment · Backend · Real-world systems
+Name        : Ym1r
+Role        : Cloud & Network Technology Student
+Focus       : Linux / Servers / Deployment
+Goal        : Work in Singapore
+Mode        : Build → Break → Fix → Understand
 ```
 
 <br/>
 
-## Selected Work
+## `selected.projects`
 
 <table>
 <tr>
 <td width="50%">
 
-### YK Intelligence
+### `01` YK Intelligence
 
-Self-hosted AI chat system deployed on my own server.
+Self-hosted AI chat system running on my own server.
 
 ```txt
-Ubuntu · Node.js · Express · SQLite · tmux
+stack: Ubuntu / Node.js / Express / SQLite / tmux
 ```
 
 * Multi-user login
 * Admin control panel
-* File upload and prompt parsing
+* File upload & prompt parsing
 * Persistent Claude Code session
 
 </td>
 <td width="50%">
 
-### Server Lab
+### `02` Server Lab
 
-A personal Linux server setup project.
+Personal Linux server setup and deployment notes.
 
 ```txt
-Linux · systemd · SSH · Git · Deployment
+stack: Linux / systemd / SSH / Git / Bash
 ```
 
-* User and permission setup
+* User & permission setup
 * Service management
 * Process persistence
-* Deployment notes
+* Deployment workflow
 
 </td>
 </tr>
@@ -63,23 +66,27 @@ Linux · systemd · SSH · Git · Deployment
 
 <br/>
 
-## System Snapshot
+## `system.map`
 
 ```txt
-Browser
-  ↓
-Node.js / Express
-  ↓
-SQLite + Sessions
-  ↓
-Ubuntu Server
-  ↓
-External AI API
+[ Browser ]
+     |
+     v
+[ Node.js / Express ]
+     |
+     v
+[ SQLite + Sessions ]
+     |
+     v
+[ Ubuntu Server ]
+     |
+     v
+[ External AI API ]
 ```
 
 <br/>
 
-## Stack
+## `toolkit`
 
 <div align="center">
 
@@ -89,7 +96,7 @@ External AI API
 
 <br/>
 
-## Activity
+## `github.activity`
 
 <div align="center">
 
@@ -97,25 +104,15 @@ External AI API
 
 <br/><br/>
 
-<img width="720" src="https://github-readme-activity-graph.vercel.app/graph?username=admin0330&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Flow" />
+<img width="680" src="https://github-readme-activity-graph.vercel.app/graph?username=admin0330&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Flow" />
 
 </div>
 
 <br/>
 
-## Philosophy
+## `note`
 
-<div align="center">
-
-> I don’t just learn.
-> I build, break, repair, and understand.
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,100:2c5364" />
-
-</div>
+```txt
+I don't just learn.
+I build, break, repair, and understand.
+```
