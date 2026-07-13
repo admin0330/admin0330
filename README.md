@@ -1,118 +1,68 @@
 <div align="center">
 
-```txt
-┌────────────────────────────────────────────┐
-│                  YM1R.DEV                   │
-│        cloud · linux · server · build       │
-└────────────────────────────────────────────┘
-```
+<br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=15&duration=2600&pause=1000&color=8BD5FF&center=true&vCenter=true&width=680&height=40&lines=BUILDING+REAL+SYSTEMS;LINUX+%2F+SERVER+%2F+DEPLOYMENT;LEARNING+BY+DOING" />
+# Ym1r
+
+*between code and the trail*
+
+`VIBE CODING` &nbsp;&middot;&nbsp; `OUTDOOR HIKING` &nbsp;&middot;&nbsp; `SLOW CURIOSITY`
+
+<br>
 
 </div>
 
-<br/>
+---
 
-## `about.me`
+### 余白
 
-```txt
-Name        : Ym1r
-Role        : Cloud & Network Technology Student
-Focus       : Linux / Servers / Deployment
-Goal        : Work in Singapore
-Mode        : Build → Break → Fix → Understand
+我是 **Ym1r**。
+
+一名 Cloud & Network Technology 学习者，也是一位相信直觉、保持好奇的创造者。<br>
+我喜欢把还说不清楚的想法交给代码，在对话、试验与迭代中，让它慢慢长出形状。
+
+<br>
+
+### Vibe coding
+
+不从完美的计划开始，从一个真实的念头开始。
+
+```text
+idea  →  conversation  →  prototype  →  reflection  →  better
 ```
 
-<br/>
+我正在用 Linux、Node.js 与 AI-assisted workflows 构建小而有用的系统。<br>
+比起堆叠技术名词，我更在意一件作品是否自然、清晰，以及是否真正解决问题。
 
-## `selected.projects`
+<br>
 
-<table>
-<tr>
-<td width="50%">
+### 山野之间
 
-### `01` YK Intelligence
+离开屏幕后，我去徒步。
 
-Self-hosted AI chat system running on my own server.
+山径提醒我放慢速度：路径不必总是最短，停下来也是旅程的一部分。<br>
+写代码与走山路很像——观察环境，选择下一步，也为未知留一点空间。
 
-```txt
-stack: Ubuntu / Node.js / Express / SQLite / tmux
-```
+<br>
 
-* Multi-user login
-* Admin control panel
-* File upload & prompt parsing
-* Persistent Claude Code session
+### 此刻
 
-</td>
-<td width="50%">
+- 在真实项目中学习，也在学习如何更好地提问
+- 探索 AI 与个人工作流之间更自然的协作方式
+- 记录路线、想法，以及那些值得慢慢完成的事
 
-### `02` Server Lab
+<br>
 
-Personal Linux server setup and deployment notes.
-
-```txt
-stack: Linux / systemd / SSH / Git / Bash
-```
-
-* User & permission setup
-* Service management
-* Process persistence
-* Deployment workflow
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## `system.map`
-
-```txt
-[ Browser ]
-     |
-     v
-[ Node.js / Express ]
-     |
-     v
-[ SQLite + Sessions ]
-     |
-     v
-[ Ubuntu Server ]
-     |
-     v
-[ External AI API ]
-```
-
-<br/>
-
-## `toolkit`
+---
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,nodejs,express,sqlite,git,github,bash,vscode" />
+<sub>Build with intuition. Walk with attention.</sub>
+
+<br><br>
+
+[repositories](https://github.com/admin0330?tab=repositories) &nbsp;&middot;&nbsp; [activity](https://github.com/admin0330?tab=overview)
+
+<br>
 
 </div>
-
-<br/>
-
-## `github.activity`
-
-<div align="center">
-
-<img width="420" src="https://github-readme-stats.vercel.app/api?username=admin0330&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8BD5FF&icon_color=8BD5FF" />
-
-<br/><br/>
-
-<img width="680" src="https://github-readme-activity-graph.vercel.app/graph?username=admin0330&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Flow" />
-
-</div>
-
-<br/>
-
-## `note`
-
-```txt
-I don't just learn.
-I build, break, repair, and understand.
-```
