@@ -110,6 +110,61 @@
 
 <br>
 
+## Repositories
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Personal-APP](https://github.com/admin0330/Personal-APP)
+
+邮件聚合、笔记与记账的个人应用。
+
+`Kotlin` `Jetpack Compose` `Go` `React`
+
+Android 原生客户端、Go 后端与 Web 管理界面，强调本地优先与租户隔离。
+
+</td>
+<td width="50%" valign="top">
+
+### [Liquid Music Android](https://github.com/admin0330/liquid-music-android)
+
+原生 Kotlin 本地音乐播放器。
+
+`Kotlin` `Media3` `Compose`
+
+把 Liquid Glass 的层次与动态专辑色带到 Android，音乐与歌词完全留在本地。
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [股析](https://github.com/admin0330/guxi-stock-analysis)
+
+A 股与加密资产分析系统。
+
+`Python` `FastAPI` `ECharts`
+
+行情总览、个股透视、每日关注池与币圈看板；Binance 仅提供只读查询。
+
+</td>
+<td width="50%" valign="top">
+
+### [YK-CloudOps](https://github.com/admin0330/YK-CloudOps)
+
+以运维中心为主叙事的个人站点与服务器管理系统。
+
+`React` `Express` `SQLite` `SSH`
+
+主页、AI 运维助手、管理后台与服务器信息页组成一个可上线的整体。
+
+</td>
+</tr>
+</table>
+
+<br>
+
 ## 山野之间
 
 离开屏幕后，我去徒步。
