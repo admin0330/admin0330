@@ -6,187 +6,85 @@
 
 <a href="https://github.com/admin0330?tab=repositories">Repositories</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://github.com/admin0330?tab=stars">Stars</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="https://github.com/admin0330?tab=overview">Activity</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="#山野之间">Trail Notes</a>
 
-<br><br>
-
 </div>
 
-> **余白 / yohaku** — 给想法一点空间，让它自然长成作品。
+<br>
+
+> **余白 / yohaku** — *One accent, three neutral tiers, the rest is whitespace.*
+
+我是 **Ym1r**。做本地优先的原生应用、轻量 AI 工作流与自托管系统——习惯先用快速原型验证直觉，再把多余的噪音删掉，只留下清晰、克制、真正好用的部分。
 
 <br>
 
-## 关于我
+## Craft & Stack
 
-我是 **Ym1r**，一名 Cloud & Network Technology 学习者，也是一位相信直觉、保持好奇的创造者。
-
-我喜欢把还说不清楚的念头交给代码，在对话、试验与迭代中，让它们慢慢拥有形状。比起堆叠技术名词，我更在意一件作品是否自然、清晰，以及是否真正解决问题。
-
-<br>
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### `01` 直觉
-
-从一个真实的念头开始，不等待完美计划。让好奇心决定第一步。
-
-`idea → prompt`
-
-</td>
-<td width="33%" valign="top">
-
-### `02` 构建
-
-用快速原型验证方向，在运行、出错与修复之间理解系统。
-
-`prototype → learn`
-
-</td>
-<td width="33%" valign="top">
-
-### `03` 留白
-
-在迭代之间停下来观察。删掉噪音，让真正重要的部分留下。
-
-`reflect → refine`
-
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="./assets/yohaku-stack.svg" width="100%" alt="Craft and Stack — Mobile & System, AI & Backend, Web & Infra">
+</div>
 
 <br>
 
-## Vibe coding
-
-```text
-    a vague thought
-          │
-          ▼
-   conversation  ────  curiosity
-          │                 │
-          ▼                 ▼
-      prototype  ────  run / break / fix
-          │
-          ▼
-    something useful
-```
-
-目前，我在用 `Linux`、`Node.js` 与 `AI-assisted workflows` 构建小而有用的系统。我的工作方式不是把判断交给 AI，而是让对话加速探索，让每次迭代都留下理解。
-
-<br>
-
-## Selected work
+## Selected Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### YK Intelligence
+### [Liquid Music Android](https://github.com/admin0330/liquid-music-android) &nbsp;<sub>`★ 6`</sub>
 
-运行在个人服务器上的自托管 AI 对话系统。
+原生 Kotlin 本地无损音乐播放器。把 Liquid Glass 层次与动态专辑色带到 Android，音乐与歌词完全留在本地。
 
-`Ubuntu` `Node.js` `Express` `SQLite`
-
-多用户登录、管理控制、文件上传，以及可持续的 AI 会话工作流。
+`Kotlin` `Jetpack Compose` `Media3` `Room` `USB DAC`
 
 </td>
 <td width="50%" valign="top">
 
-### Server Lab
+### [kb-mcp](https://github.com/admin0330/kb-mcp)
 
-一处持续生长的 Linux 实验场。
+面向外置固态硬盘的个人知识库 MCP 服务。具备热插拔防崩溃、FTS5 + FastEmbed 混合检索与原子大纲自愈。
 
-`Linux` `systemd` `SSH` `Git` `Bash`
-
-记录服务管理、权限配置、进程守护与部署流程中的真实经验。
+`Python` `MCP` `SQLite FTS5` `FastEmbed`
 
 </td>
 </tr>
-</table>
-
-<br>
-
-## Repositories
-
-<table>
 <tr>
 <td width="50%" valign="top">
 
 ### [Personal-APP](https://github.com/admin0330/Personal-APP)
 
-邮件聚合、笔记与记账的个人应用。
+本地优先的多端个人效率套件，将邮件聚合、笔记与记账收拢进同一套轻量工作流，强调租户隔离与离线可用。
 
-`Kotlin` `Jetpack Compose` `Go` `React`
-
-Android 原生客户端、Go 后端与 Web 管理界面，强调本地优先与租户隔离。
+`Kotlin` `Compose` `Go` `React`
 
 </td>
 <td width="50%" valign="top">
 
-### [Liquid Music Android](https://github.com/admin0330/liquid-music-android)
+### [股析 · guxi-stock-analysis](https://github.com/admin0330/guxi-stock-analysis)
 
-原生 Kotlin 本地音乐播放器。
-
-`Kotlin` `Media3` `Compose`
-
-把 Liquid Glass 的层次与动态专辑色带到 Android，音乐与歌词完全留在本地。
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [股析](https://github.com/admin0330/guxi-stock-analysis)
-
-A 股与加密资产分析系统。
+A 股与加密资产分析系统，涵盖行情总览、个股透视与每日关注池，提供原生 Web 界面与便携版封装。
 
 `Python` `FastAPI` `ECharts`
-
-行情总览、个股透视、每日关注池与币圈看板；Binance 仅提供只读查询。
-
-</td>
-<td width="50%" valign="top">
-
-### [YK-CloudOps](https://github.com/admin0330/YK-CloudOps)
-
-以运维中心为主叙事的个人站点与服务器管理系统。
-
-`React` `Express` `SQLite` `SSH`
-
-主页、AI 运维助手、管理后台与服务器信息页组成一个可上线的整体。
 
 </td>
 </tr>
 </table>
 
+<sub>**More in the workshop** — [Xiaomi-15-Pro-Device-tree](https://github.com/admin0330/Xiaomi-15-Pro-Device-tree) (SM8750 / HyperOS 4 rebase) · [wloc-locator](https://github.com/admin0330/wloc-locator) (Apple WLOC & Cloudflare Workers) · [my-blog](https://github.com/admin0330/my-blog) (Astro Yohaku theme)</sub>
+
 <br>
 
 ## 山野之间
 
-离开屏幕后，我去徒步。
-
-山径提醒我放慢速度：路径不必总是最短，停下来也是旅程的一部分。写代码与走山路很像——观察环境，选择下一步，也为未知留一点空间。
-
-```text
-trailhead  ·····  forest  ·····  ridge  ·····  somewhere quieter
-```
+离开屏幕后，我去徒步。山径不追求最短路径——观察地形、选好下一步、也为未知留一点余白，和写代码其实是一样的。
 
 <br>
-
-## Footprints in code
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=admin0330&bg_color=f9f8f5&color=5c5a55&line=c56473&point=24231f&area=true&area_color=e3e1db&hide_border=true&custom_title=Build%20with%20intuition%20%E2%80%94%20walk%20with%20attention" width="100%" alt="Ym1r's contribution activity graph">
-
-<br>
-
-<sub>BUILD WITH INTUITION &nbsp;·&nbsp; WALK WITH ATTENTION</sub>
-
-<br><br>
-
+  <img src="./assets/yohaku-footer.svg" width="100%" alt="Ym1r — Living a life by design">
 </div>
