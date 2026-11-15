@@ -19,7 +19,7 @@
 #### ⚡ Stats
 
 <!-- stats:start -->
-I joined GitHub **5** years ago and have since pushed **78** commits, opened **1** issue, submitted **8** pull requests, and earned **7** stars across **8** personal projects, with contributions to **2** public repositories.
+I joined GitHub **5** years ago and have since pushed **39** commits, opened **1** issue, submitted **7** pull requests, and earned **7** stars across **8** personal projects, with contributions to **2** public repositories.
 <!-- stats:end -->
 
 #### 🌀 Projects
