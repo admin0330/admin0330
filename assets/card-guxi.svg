@@ -1,26 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="580" height="200" viewBox="0 0 580 200" role="img" aria-label="guxi-stock-analysis">
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="184" viewBox="0 0 580 184" role="img" aria-label="guxi-stock-analysis">
   <defs>
-    <linearGradient id="cbg4" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#111318"/>
-      <stop offset="1" stop-color="#161820"/>
-    </linearGradient>
     <style>
-      .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, "PingFang SC", "Noto Sans SC", sans-serif; }
+      .sans { font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Segoe UI", Inter, "PingFang SC", "Noto Sans SC", sans-serif; }
       .mono { font-family: ui-monospace, "SF Mono", "JetBrains Mono", Menlo, Consolas, monospace; }
     </style>
   </defs>
-  <rect x="1" y="1" width="578" height="198" rx="14" fill="url(#cbg4)" stroke="#262933" stroke-width="1.2"/>
-  <text class="mono" x="28" y="38" fill="#e06c58" font-size="11.5" letter-spacing="2">04 · MARKET ANALYTICS</text>
-  <text class="mono" x="552" y="38" fill="#7c808b" font-size="11.5" text-anchor="end">PYTHON · FASTAPI</text>
-  <text class="sans" x="28" y="76" fill="#f5f3ee" font-size="22" font-weight="600">股析 · guxi-stock-analysis</text>
-  <text class="sans" x="28" y="108" fill="#9ea2ad" font-size="14">A 股与加密资产分析系统，涵盖行情总览、个股透视与</text>
-  <text class="sans" x="28" y="130" fill="#9ea2ad" font-size="14">每日关注池，支持原生 Web 与便携版运行。</text>
-  <g transform="translate(28 154)">
-    <rect x="0" y="0" width="64" height="24" rx="6" fill="#1c1f29" stroke="#2c303d"/>
-    <text class="mono" x="32" y="15.5" fill="#c7c9d1" font-size="11" text-anchor="middle">Python</text>
-    <rect x="72" y="0" width="72" height="24" rx="6" fill="#1c1f29" stroke="#2c303d"/>
-    <text class="mono" x="108" y="15.5" fill="#c7c9d1" font-size="11" text-anchor="middle">FastAPI</text>
-    <rect x="152" y="0" width="72" height="24" rx="6" fill="#1c1f29" stroke="#2c303d"/>
-    <text class="mono" x="188" y="15.5" fill="#c7c9d1" font-size="11" text-anchor="middle">ECharts</text>
-  </g>
+  <rect x="0.5" y="0.5" width="579" height="183" rx="6" fill="#0a0a0a" stroke="#262626"/>
+  <text class="mono" x="28" y="34" fill="#737373" font-size="11.5" letter-spacing="1.5">04</text>
+  <text class="mono" x="552" y="34" fill="#737373" font-size="11.5" text-anchor="end">WEB</text>
+  <text class="sans" x="28" y="72" fill="#fafafa" font-size="21" font-weight="600" letter-spacing="-0.3">股析 · guxi-stock-analysis</text>
+  <text class="sans" x="28" y="102" fill="#a3a3a3" font-size="14">A 股与加密资产分析系统，包含行情总览、个股透视与</text>
+  <text class="sans" x="28" y="123" fill="#a3a3a3" font-size="14">每日关注池。</text>
+  <line x1="28" y1="144" x2="552" y2="144" stroke="#1c1c1c" stroke-width="1"/>
+  <text class="mono" x="28" y="165" fill="#737373" font-size="11.5">Python · FastAPI · ECharts</text>
 </svg>

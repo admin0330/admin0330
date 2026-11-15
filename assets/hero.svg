@@ -1,85 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="hero-title hero-desc">
-  <title id="hero-title">Ym1r — Living a life by design</title>
-  <desc id="hero-desc">Architectural dark-slate hero banner with topographic contour lines, ember accent beacon, and typography.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Ym1r">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0d0e12"/>
-      <stop offset="0.55" stop-color="#12141a"/>
-      <stop offset="1" stop-color="#171922"/>
-    </linearGradient>
-    <radialGradient id="glow" cx="0.82" cy="0.28" r="0.45">
-      <stop offset="0" stop-color="#e06c58" stop-opacity="0.18"/>
-      <stop offset="0.55" stop-color="#e06c58" stop-opacity="0.04"/>
-      <stop offset="1" stop-color="#0d0e12" stop-opacity="0"/>
-    </radialGradient>
-    <linearGradient id="ridge" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#1d202b" stop-opacity="0.75"/>
-      <stop offset="1" stop-color="#0d0e12" stop-opacity="0.95"/>
-    </linearGradient>
-    <clipPath id="frame"><rect x="1" y="1" width="1198" height="398" rx="16"/></clipPath>
     <style>
-      .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, "PingFang SC", "Noto Sans SC", sans-serif; }
-      .serif { font-family: Georgia, "Times New Roman", "Noto Serif SC", serif; }
+      .sans { font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Segoe UI", Inter, "PingFang SC", "Noto Sans SC", sans-serif; }
       .mono { font-family: ui-monospace, "SF Mono", "JetBrains Mono", Menlo, Consolas, monospace; }
     </style>
   </defs>
 
-  <g clip-path="url(#frame)">
-    <rect width="1200" height="400" fill="url(#bg)"/>
-    <rect width="1200" height="400" fill="url(#glow)"/>
+  <rect x="0.5" y="0.5" width="1199" height="319" rx="6" fill="#0a0a0a" stroke="#262626"/>
 
-    <!-- Subtle architectural grid lines -->
-    <g stroke="#ffffff" stroke-opacity="0.035" stroke-width="1">
-      <line x1="0" y1="76" x2="1200" y2="76"/>
-      <line x1="0" y1="324" x2="1200" y2="324"/>
-      <line x1="72" y1="0" x2="72" y2="400"/>
-      <line x1="1128" y1="0" x2="1128" y2="400"/>
-    </g>
+  <!-- Top hairline row -->
+  <text class="mono" x="56" y="48" fill="#737373" font-size="12" letter-spacing="1.5">GITHUB.COM/ADMIN0330</text>
+  <text class="mono" x="1144" y="48" fill="#737373" font-size="12" letter-spacing="1.5" text-anchor="end">EST. 2021</text>
+  <line x1="56" y1="68" x2="1144" y2="68" stroke="#262626" stroke-width="1"/>
 
-    <!-- Corner registration crosshairs -->
-    <g stroke="#e06c58" stroke-opacity="0.55" stroke-width="1.2">
-      <path d="M66 76h12M72 70v12"/>
-      <path d="M1122 76h12M1128 70v12"/>
-      <path d="M66 324h12M72 318v12"/>
-      <path d="M1122 324h12M1128 318v12"/>
-    </g>
+  <!-- Main title block -->
+  <text class="sans" x="54" y="176" fill="#fafafa" font-size="84" font-weight="700" letter-spacing="-2.5">Ym1r</text>
+  <text class="sans" x="58" y="218" fill="#a3a3a3" font-size="18" font-weight="400">Software, native apps, and self-hosted tools.</text>
 
-    <!-- Topographic contour lines on right side -->
-    <g fill="none" stroke="#ffffff" stroke-opacity="0.07" stroke-width="1">
-      <path d="M540 24c110 42 180 18 280-12s210-18 390 64"/>
-      <path d="M500 54c130 52 210 22 315-8s205-12 395 72"/>
-      <path d="M460 88c145 60 235 28 345-4s200-4 400 80"/>
-      <path d="M420 126c160 66 260 34 375 0s195 6 410 86"/>
-      <path d="M390 168c170 70 280 40 400 6s190 14 420 90"/>
-      <path d="M370 214c180 72 295 44 420 10s185 20 425 94"/>
-    </g>
-
-    <!-- Mountain silhouette & trail line -->
-    <path d="M460 400 L640 250 L740 315 L885 182 L1015 288 L1110 218 L1200 295 L1200 400 Z" fill="url(#ridge)"/>
-    <path d="M885 182 C875 235 842 260 830 298 C820 328 845 358 838 400" fill="none" stroke="#e06c58" stroke-width="1.5" stroke-dasharray="4 6" stroke-opacity="0.65"/>
-
-    <!-- Ember beacon -->
-    <circle cx="996" cy="112" r="22" fill="#e06c58"/>
-    <circle cx="996" cy="112" r="36" fill="none" stroke="#e06c58" stroke-width="1" stroke-opacity="0.32"/>
-    <circle cx="996" cy="112" r="54" fill="none" stroke="#e06c58" stroke-width="0.75" stroke-dasharray="3 5" stroke-opacity="0.22"/>
-
-    <!-- Top meta bar -->
-    <text class="mono" x="96" y="50" fill="#7c808b" font-size="11.5" letter-spacing="2">GITHUB / ADMIN0330 · EST. 2021</text>
-    <text class="mono" x="1104" y="50" fill="#7c808b" font-size="11.5" letter-spacing="2" text-anchor="end">34°N · CODE &amp; TRAIL</text>
-
-    <!-- Main editorial headline -->
-    <g transform="translate(96 142)">
-      <text class="mono" x="2" y="0" fill="#e06c58" font-size="12" letter-spacing="3">PORTFOLIO · PROFILE</text>
-      <text class="serif" x="0" y="74" fill="#f5f3ee" font-size="76" font-weight="500" letter-spacing="1">Ym1r</text>
-      <text class="sans" x="218" y="68" fill="#8f939e" font-size="18" font-weight="400">“Living a life by design.”</text>
-      <rect x="2" y="100" width="56" height="2.5" rx="1.25" fill="#e06c58"/>
-      <text class="sans" x="2" y="138" fill="#c7c9d1" font-size="16" letter-spacing="0.4">Native Android · AI Systems &amp; MCP · Low-level &amp; Self-hosted</text>
-    </g>
-
-    <!-- Bottom telemetry bar -->
-    <text class="mono" x="96" y="366" fill="#7c808b" font-size="11.5" letter-spacing="1.8">LOCAL-FIRST · BIT-PERFECT · MINIMAL SURFACE</text>
-    <text class="mono" x="1104" y="366" fill="#e06c58" font-size="11.5" letter-spacing="2" text-anchor="end">BUILD / WALK / REFINE</text>
+  <!-- Right-aligned minimal index -->
+  <g transform="translate(1144 134)" text-anchor="end">
+    <text class="mono" x="0" y="0" fill="#fafafa" font-size="13" letter-spacing="1">ANDROID / KOTLIN</text>
+    <text class="mono" x="0" y="26" fill="#a3a3a3" font-size="13" letter-spacing="1">PYTHON / FASTAPI / MCP</text>
+    <text class="mono" x="0" y="52" fill="#737373" font-size="13" letter-spacing="1">GO / LINUX / ASTRO</text>
   </g>
 
-  <rect x="1" y="1" width="1198" height="398" rx="16" fill="none" stroke="#262933" stroke-width="1.2"/>
+  <!-- Bottom hairline row -->
+  <line x1="56" y1="258" x2="1144" y2="258" stroke="#262626" stroke-width="1"/>
+  <text class="mono" x="56" y="288" fill="#737373" font-size="11.5" letter-spacing="1.5">LOCAL-FIRST</text>
+  <text class="mono" x="600" y="288" fill="#525252" font-size="11.5" letter-spacing="1.5" text-anchor="middle">·</text>
+  <text class="mono" x="1144" y="288" fill="#fafafa" font-size="11.5" letter-spacing="1.5" text-anchor="end">BLACK &amp; WHITE</text>
 </svg>

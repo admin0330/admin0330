@@ -1,43 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="205" viewBox="0 0 1200 205" role="img" aria-label="Tech Stack and Craft">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="172" viewBox="0 0 1200 172" role="img" aria-label="Tech Stack">
   <defs>
-    <linearGradient id="sbg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0f1116"/>
-      <stop offset="1" stop-color="#151821"/>
-    </linearGradient>
     <style>
-      .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, "PingFang SC", "Noto Sans SC", sans-serif; }
-      .serif { font-family: Georgia, "Times New Roman", "Noto Serif SC", serif; }
+      .sans { font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Segoe UI", Inter, "PingFang SC", "Noto Sans SC", sans-serif; }
       .mono { font-family: ui-monospace, "SF Mono", "JetBrains Mono", Menlo, Consolas, monospace; }
     </style>
   </defs>
-  <rect x="1" y="1" width="1198" height="203" rx="16" fill="url(#sbg)" stroke="#262933" stroke-width="1.2"/>
-  <line x1="400" y1="30" x2="400" y2="175" stroke="#242732" stroke-width="1"/>
-  <line x1="800" y1="30" x2="800" y2="175" stroke="#242732" stroke-width="1"/>
+  <rect x="0.5" y="0.5" width="1199" height="171" rx="6" fill="#0a0a0a" stroke="#262626"/>
+  <line x1="400" y1="28" x2="400" y2="144" stroke="#262626" stroke-width="1"/>
+  <line x1="800" y1="28" x2="800" y2="144" stroke="#262626" stroke-width="1"/>
 
-  <g transform="translate(52 44)">
-    <text class="mono" x="0" y="0" fill="#e06c58" font-size="11" letter-spacing="2">01 / NATIVE &amp; DEVICE</text>
-    <text class="serif" x="0" y="34" fill="#f5f3ee" font-size="22" font-weight="500">Mobile &amp; System</text>
-    <rect x="0" y="48" width="28" height="2" rx="1" fill="#e06c58"/>
-    <text class="sans" x="0" y="80" fill="#d3d5dc" font-size="14">Kotlin · Jetpack Compose · Media3</text>
-    <text class="sans" x="0" y="106" fill="#8f939e" font-size="13.5">Room · USB DAC · AOSP / Device Tree</text>
-    <text class="mono" x="0" y="134" fill="#5e626e" font-size="10.5" letter-spacing="1.2">LOCAL-FIRST · BIT-PERFECT</text>
+  <g transform="translate(48 44)">
+    <text class="mono" x="0" y="0" fill="#737373" font-size="11" letter-spacing="1.5">01 / MOBILE &amp; SYSTEM</text>
+    <text class="sans" x="0" y="34" fill="#fafafa" font-size="18" font-weight="600">Native &amp; Device</text>
+    <text class="mono" x="0" y="72" fill="#a3a3a3" font-size="12.5">Kotlin · Compose · Media3</text>
+    <text class="mono" x="0" y="96" fill="#737373" font-size="12.5">Room · USB DAC · AOSP</text>
   </g>
 
-  <g transform="translate(452 44)">
-    <text class="mono" x="0" y="0" fill="#e06c58" font-size="11" letter-spacing="2">02 / AI &amp; BACKEND</text>
-    <text class="serif" x="0" y="34" fill="#f5f3ee" font-size="22" font-weight="500">Agents &amp; Services</text>
-    <rect x="0" y="48" width="28" height="2" rx="1" fill="#e06c58"/>
-    <text class="sans" x="0" y="80" fill="#d3d5dc" font-size="14">Python · FastAPI · Go · Node.js</text>
-    <text class="sans" x="0" y="106" fill="#8f939e" font-size="13.5">MCP · SQLite FTS5 · FastEmbed</text>
-    <text class="mono" x="0" y="134" fill="#5e626e" font-size="10.5" letter-spacing="1.2">PROTOTYPE → VERIFY → REFINE</text>
+  <g transform="translate(448 44)">
+    <text class="mono" x="0" y="0" fill="#737373" font-size="11" letter-spacing="1.5">02 / BACKEND &amp; AI</text>
+    <text class="sans" x="0" y="34" fill="#fafafa" font-size="18" font-weight="600">Services &amp; MCP</text>
+    <text class="mono" x="0" y="72" fill="#a3a3a3" font-size="12.5">Python · FastAPI · Go · Node.js</text>
+    <text class="mono" x="0" y="96" fill="#737373" font-size="12.5">MCP · SQLite FTS5 · FastEmbed</text>
   </g>
 
-  <g transform="translate(852 44)">
-    <text class="mono" x="0" y="0" fill="#e06c58" font-size="11" letter-spacing="2">03 / WEB &amp; EDGE</text>
-    <text class="serif" x="0" y="34" fill="#f5f3ee" font-size="22" font-weight="500">Interface &amp; Infra</text>
-    <rect x="0" y="48" width="28" height="2" rx="1" fill="#e06c58"/>
-    <text class="sans" x="0" y="80" fill="#d3d5dc" font-size="14">Astro · React · ECharts</text>
-    <text class="sans" x="0" y="106" fill="#8f939e" font-size="13.5">Linux · systemd · Cloudflare Workers</text>
-    <text class="mono" x="0" y="134" fill="#5e626e" font-size="10.5" letter-spacing="1.2">QUIET UI · SELF-HOSTED</text>
+  <g transform="translate(848 44)">
+    <text class="mono" x="0" y="0" fill="#737373" font-size="11" letter-spacing="1.5">03 / WEB &amp; INFRA</text>
+    <text class="sans" x="0" y="34" fill="#fafafa" font-size="18" font-weight="600">Interface &amp; Edge</text>
+    <text class="mono" x="0" y="72" fill="#a3a3a3" font-size="12.5">Astro · React · ECharts</text>
+    <text class="mono" x="0" y="96" fill="#737373" font-size="12.5">Linux · systemd · Workers</text>
   </g>
 </svg>
