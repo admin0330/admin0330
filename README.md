@@ -38,7 +38,6 @@ Tip: Read my notes on [my-blog](https://github.com/admin0330/my-blog) or run `gh
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | **Building**      | [liquid-music-android](https://github.com/admin0330/liquid-music-android) – A lossless music player for Android.         |
 |                   | [kb-mcp](https://github.com/admin0330/kb-mcp) – A knowledge base you can plug into any MCP client.                       |
-|                   | BetterMac – A Mac mini rental site on Next.js static export and Cloudflare Pages Functions.                              |
 |                   | SpeedClip – A video clipping tool with on-device MLX transcription.                                                      |
 | **Maintaining**   | [Personal-APP](https://github.com/admin0330/Personal-APP) – My local-first daily driver.                                 |
 |                   | [guxi-stock-analysis](https://github.com/admin0330/guxi-stock-analysis) – Market dashboards and a portable Windows build. |
