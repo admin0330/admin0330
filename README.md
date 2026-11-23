@@ -11,7 +11,7 @@
 
 🧭 Spec first, then ship: I write the design doc and plan, and let coding agents do the typing.
 
-[![repos](https://img.shields.io/badge/repos-11-313131?style=flat&labelColor=545454&color=313131)](https://github.com/admin0330?tab=repositories) [![stars](https://img.shields.io/badge/stars-7-313131?style=flat&labelColor=545454&color=313131)](https://github.com/admin0330?tab=repositories&sort=stargazers) [![views](https://komarev.com/ghpvc/?username=admin0330&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/admin0330)
+[![repos](https://img.shields.io/badge/repos-13-313131?style=flat&labelColor=545454&color=313131)](https://github.com/admin0330?tab=repositories) [![stars](https://img.shields.io/badge/stars-7-313131?style=flat&labelColor=545454&color=313131)](https://github.com/admin0330?tab=repositories&sort=stargazers) [![views](https://komarev.com/ghpvc/?username=admin0330&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/admin0330)
 
 <br>
 <br>
@@ -21,7 +21,7 @@
 #### ⚡ Stats
 
 <!-- stats:start -->
-I joined GitHub **5** years ago and have since pushed **39** commits, opened **1** issue, submitted **7** pull requests, and earned **7** stars across **8** personal projects, with contributions to **2** public repositories.
+I joined GitHub **5** years ago and have since pushed **42** commits, opened **1** issue, submitted **7** pull requests, and earned **7** stars across **10** personal projects, with contributions to **2** public repositories.
 <!-- stats:end -->
 
 #### 🌀 Projects
